@@ -1,0 +1,11 @@
+# Ignore all `.log` files
+*.log
+
+# Ignore a specific file
+secret.txt
+
+# Ignore all files in the `temp` folder
+temp/
+
+# Ignore all `.bak` backup files
+*.bak
